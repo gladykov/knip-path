@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "knip": "knip --include files"
+    "knip": "knip --include files",
+    "knip-bun": "knip-bun --include files"
   },
   "dependencies": {
     "knip": "^5.57.0"
