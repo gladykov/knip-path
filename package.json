@@ -4,6 +4,6 @@
     "knip-bun": "knip-bun --include files"
   },
   "dependencies": {
-    "knip": "^5.57.0"
+    "knip": "^5.57.1"
   }
 }
