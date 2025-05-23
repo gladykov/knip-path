@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "knip": "knip --include files"
+  },
+  "dependencies": {
+    "knip": "^5.57.0"
+  }
+}

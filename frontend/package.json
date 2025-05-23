@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@nlekane/dummy-npm-package": "^1.0.0"
+  }
+}
